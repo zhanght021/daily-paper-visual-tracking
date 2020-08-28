@@ -59,6 +59,8 @@
 ----------------------------
 ### 2020
 
+* :star2: RPT :star2: Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. [[paper](https://arxiv.org/abs/2008.03467)]
+
 * **TS-RCN:** Ning Zhang, Jingen Liu, Ke Wang, Dan Zeng, Tao Mei. Robust Visual Object Tracking with Two-Stream Residual Convolutional Networks. [[paper](https://arxiv.org/pdf/2005.06536.pdf)]
 
 * **FCOT:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. Fully Convolutional Online Tracking. [[paper](https://arxiv.org/pdf/2004.07109.pdf)][[code](https://github.com/MCG-NJU/FCOT)]
