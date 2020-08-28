@@ -45,6 +45,7 @@
 
 * **SiamBAN:** Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji. Siamese Box Adaptive Network for Visual Tracking. [[paper](https://arxiv.org/pdf/2003.06761.pdf)][[code](https://github.com/hqucv/siamban)]
 
+* **CGACD:** Fei Du, Peng Liu, Wei Zhao, Xianglong Tang. Correlation-Guided Attention for Corner Detection Based Visual Tracking. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Correlation-Guided_Attention_for_Corner_Detection_Based_Visual_Tracking_CVPR_2020_paper.pdf)]
 
 ----------------------------
 ### AAAI2020
