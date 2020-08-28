@@ -30,6 +30,13 @@
 
 * Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. Deep Learning for Visual Tracking: A Comprehensive Survey. [[paper](https://arxiv.org/pdf/1912.00535.pdf)]
 
+
+----------------------------
+### ECCV2020
+
+* **Surroundings:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Know Your Surroundings: Exploiting Scene Information for Object Tracking. [[paper](https://arxiv.org/pdf/2003.11014.pdf)]
+
+
 ----------------------------
 ### CVPR2020
 
@@ -72,11 +79,7 @@
 
 * **TS-RCN:** Ning Zhang, Jingen Liu, Ke Wang, Dan Zeng, Tao Mei. Robust Visual Object Tracking with Two-Stream Residual Convolutional Networks. [[paper](https://arxiv.org/pdf/2005.06536.pdf)]
 
-* **TS-RCN:** Ning Zhang, Jingen Liu, Ke Wang, Dan Zeng, Tao Mei. Robust Visual Object Tracking with Two-Stream Residual Convolutional Networks. [[paper](https://arxiv.org/pdf/2005.06536.pdf)]
-
 * **FCOT:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. Fully Convolutional Online Tracking. [[paper](https://arxiv.org/pdf/2004.07109.pdf)][[code](https://github.com/MCG-NJU/FCOT)]
-
-* **Surroundings:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Know Your Surroundings: Exploiting Scene Information for Object Tracking. [[paper](https://arxiv.org/pdf/2003.11014.pdf)]
 
 * **DMV:** Gunhee Nam, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim. DMV: Visual Object Tracking via Part-level Dense Memory and Voting-based Retrieval. [[paper](https://arxiv.org/pdf/2003.09171.pdf)]
 
