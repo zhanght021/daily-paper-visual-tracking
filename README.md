@@ -59,7 +59,9 @@
 ----------------------------
 ### 2020
 
-* :+1: **RPT:** :+1: Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW**)[[paper](https://arxiv.org/abs/2008.03467)]
+* :+1: **RPT:** :+1: Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW**)(**Winner of VOT2020 Short-term Challenge**)[[paper](https://arxiv.org/abs/2008.03467)]
+
+* **TS-RCN:** Ning Zhang, Jingen Liu, Ke Wang, Dan Zeng, Tao Mei. Robust Visual Object Tracking with Two-Stream Residual Convolutional Networks. [[paper](https://arxiv.org/pdf/2005.06536.pdf)]
 
 * **TS-RCN:** Ning Zhang, Jingen Liu, Ke Wang, Dan Zeng, Tao Mei. Robust Visual Object Tracking with Two-Stream Residual Convolutional Networks. [[paper](https://arxiv.org/pdf/2005.06536.pdf)]
 
