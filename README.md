@@ -33,6 +33,8 @@
 ----------------------------
 ### CVPR2020
 
+* **D3S:** Alan Lukežič, Jiří Matas, Matej Kristan. D3S -- A Discriminative Single Shot Segmentation Tracker. [[paper](https://arxiv.org/pdf/1911.08862.pdf)][[code](https://github.com/alanlukezic/d3s)]
+
 * **SiamAttn:** Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott. Deformable Siamese Attention Networks for Visual Object Tracking. [[paper](https://arxiv.org/pdf/2004.06711.pdf)]
 
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. Siam R-CNN: Visual Tracking by Re-Detection. [[paper](https://www.vision.rwth-aachen.de/media/papers/192/siamrcnn.pdf)][[code](https://github.com/VisualComputingInstitute/SiamR-CNN)][[project](https://www.vision.rwth-aachen.de/page/siamrcnn)]
@@ -121,8 +123,6 @@
 * **Siam-GAN:** Zhaofu Diao, Ying Wei, Yujiang Fu, Shuo Feng. A single target tracking algorithm based on Generative Adversarial Networks. [[paper](https://arxiv.org/pdf/1912.11967.pdf)]
 
 * **SiamMan:** Wenzhang Zhou, Longyin Wen, Libo Zhang, Dawei Du, Tiejian Luo, Yanjun Wu. SiamMan: Siamese Motion-aware Network for Visual Tracking. [[paper](https://arxiv.org/pdf/1912.05515.pdf)]
-
-* **D3S:** Alan Lukežič, Jiří Matas, Matej Kristan. D3S -- A Discriminative Single Shot Segmentation Tracker. [[paper](https://arxiv.org/pdf/1911.08862.pdf)]
 
 * **TracKlinic:** Heng Fan, Fan Yang, Peng Chu, Lin Yuan, Haibin Ling. TracKlinic: Diagnosis of Challenge Factors in Visual Tracking. [[paper](https://arxiv.org/pdf/1911.07959.pdf)]
 
