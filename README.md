@@ -36,6 +36,8 @@
 
 * **Surroundings:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Know Your Surroundings: Exploiting Scene Information for Object Tracking. [[paper](https://arxiv.org/pdf/2003.11014.pdf)]
 
+* **PG-Net:** Bingyan Liao, Chenye Wang, Yayun Wang, Yaonong Wang, and Jun Yin. PG-Net: Pixel to Global Matching Network for Visual Tracking. [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf)][[supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426-supp.pdf)]
+
 * **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. Ocean: Object-aware Anchor-free Tracking. [[paper](https://arxiv.org/abs/2006.10721)][[code](https://github.com/researchmm/TracKit)]
 
 
