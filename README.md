@@ -40,6 +40,8 @@
 
 * **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. Ocean: Object-aware Anchor-free Tracking. [[paper](https://arxiv.org/abs/2006.10721)][[code](https://github.com/researchmm/TracKit)]
 
+* **DCFST:** Linyu Zheng, Ming Tang, Yingying Chen, JinqiaoWang, Hanqing Lu. Learning Feature Embeddings for Discriminant Model based Tracking. [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600749.pdf)][[code](https://github.com/CASIA-IVA-Lab/DCFST)]
+
 
 ----------------------------
 ### CVPR2020
@@ -157,8 +159,6 @@
 * **fECO_fDeepSTRCF:** Ning Wang, Wengang Zhou, Yibing Song, Chao Ma, Houqiang Li. Real-Time Correlation Tracking via Joint Model Compression and Transfer. [[paper](https://arxiv.org/pdf/1907.09831.pdf)]
 
 * **SiamMask_E:** Bao Xin Chen, John K. Tsotsos. Fast Visual Object Tracking with Rotated Bounding Boxes. [[paper](https://arxiv.org/pdf/1907.03892.pdf)]
-
-* **DCFST:** Linyu Zheng, Ming Tang, JinqiaoWang, Hanqing Lu. Learning Features with Differentiable Closed-Form Solver for Tracking. [[paper](https://arxiv.org/pdf/1906.10414.pdf)]
 
 * **HAT:** Qiangqiang Wu, Zhihui Chen, Lin Cheng, Yan Yan, Bo Li, Hanzi Wang. Hallucinated Adversarial Learning for Robust Visual Tracking. [[paper](https://arxiv.org/pdf/1906.07008.pdf)]
 
