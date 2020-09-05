@@ -81,7 +81,7 @@
 
 * **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW2020**) [[paper](https://arxiv.org/abs/2008.03467)]
 
-* **  :** Bi Li, Chengquan Zhang, Zhibin Hong, Xu Tang, Jingtuo Liu, Junyu Han, Errui Ding, Wenyu Liu. Learning Global Structure Consistency for Robust Object Tracking. (**ACM MM 2020**) [[paper](https://arxiv.org/abs/2008.11769)]
+* **:** Bi Li, Chengquan Zhang, Zhibin Hong, Xu Tang, Jingtuo Liu, Junyu Han, Errui Ding, Wenyu Liu. Learning Global Structure Consistency for Robust Object Tracking. (**ACM MM 2020**) [[paper](https://arxiv.org/abs/2008.11769)]
 
 * **SiamKPN:** Qiang Li, Zekui Qin, Wenbo Zhang, Wen Zheng. Siamese Keypoint Prediction Network for Visual Object Tracking. [[paper](https://arxiv.org/abs/2006.04078)][[code](https://github.com/ZekuiQin/SiamKPN)]
 
