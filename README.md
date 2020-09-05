@@ -79,7 +79,9 @@
 ----------------------------
 ### 2020
 
-* **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW**)(**Winner of VOT2020 Short-term Challenge**)[[paper](https://arxiv.org/abs/2008.03467)]
+* **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW2020**) [[paper](https://arxiv.org/abs/2008.03467)]
+
+* **  :** Bi Li, Chengquan Zhang, Zhibin Hong, Xu Tang, Jingtuo Liu, Junyu Han, Errui Ding, Wenyu Liu. Learning Global Structure Consistency for Robust Object Tracking. (**ACM MM 2020**) [[paper](https://arxiv.org/abs/2008.11769)]
 
 * **SiamKPN:** Qiang Li, Zekui Qin, Wenbo Zhang, Wen Zheng. Siamese Keypoint Prediction Network for Visual Object Tracking. [[paper](https://arxiv.org/abs/2006.04078)][[code](https://github.com/ZekuiQin/SiamKPN)]
 
@@ -148,7 +150,7 @@
 
 * **GFS-DCF:** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler. Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking. [[paper](https://arxiv.org/pdf/1907.13242.pdf)]
 
-* **THOR:** Axel Sauer, Elie Aljalbout, Sami Haddadin. Tracking Holistic Object Representations. BMVC 2019. [[paper](https://arxiv.org/pdf/1907.12920.pdf)][[code](https://github.com/xl-sr/THOR)]
+* **THOR:** Axel Sauer, Elie Aljalbout, Sami Haddadin. Tracking Holistic Object Representations. (**BMVC 2019**) [[paper](https://arxiv.org/pdf/1907.12920.pdf)][[code](https://github.com/xl-sr/THOR)]
 
 * **fECO_fDeepSTRCF:** Ning Wang, Wengang Zhou, Yibing Song, Chao Ma, Houqiang Li. Real-Time Correlation Tracking via Joint Model Compression and Transfer. [[paper](https://arxiv.org/pdf/1907.09831.pdf)]
 
