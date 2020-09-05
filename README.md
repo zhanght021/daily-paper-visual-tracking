@@ -40,7 +40,7 @@
 
 * **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. Ocean: Object-aware Anchor-free Tracking. [[paper](https://arxiv.org/abs/2006.10721)][[code](https://github.com/researchmm/TracKit)]
 
-* **DCFST:** Linyu Zheng, Ming Tang, Yingying Chen, JinqiaoWang, Hanqing Lu. Learning Feature Embeddings for Discriminant Model based Tracking. [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600749.pdf)][[code](https://github.com/CASIA-IVA-Lab/DCFST)]
+* **DCFST:** Linyu Zheng, Ming Tang, Yingying Chen, JinqiaoWang, Hanqing Lu. Learning Feature Embeddings for Discriminant Model based Tracking. [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600749.pdf)][[supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600749-supp.pdf)][[code](https://github.com/CASIA-IVA-Lab/DCFST)]
 
 
 ----------------------------
