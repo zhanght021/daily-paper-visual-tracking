@@ -36,6 +36,8 @@
 
 * **Surroundings:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Know Your Surroundings: Exploiting Scene Information for Object Tracking. [[paper](https://arxiv.org/pdf/2003.11014.pdf)]
 
+* **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. Ocean: Object-aware Anchor-free Tracking. [[paper](https://arxiv.org/abs/2006.10721)][[code](https://github.com/researchmm/TracKit)]
+
 
 ----------------------------
 ### CVPR2020
