@@ -42,6 +42,8 @@
 ----------------------------
 ### CVPR2020
 
+* **LTMU:** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang. High-Performance Long-Term Tracking with Meta-Updater. (**oral**)[[paper](https://arxiv.org/abs/2004.00305)][[code](https://github.com/Daikenan/LTMU)]
+
 * **D3S:** Alan Lukežič, Jiří Matas, Matej Kristan. D3S -- A Discriminative Single Shot Segmentation Tracker. [[paper](https://arxiv.org/pdf/1911.08862.pdf)][[code](https://github.com/alanlukezic/d3s)]
 
 * **SiamAttn:** Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott. Deformable Siamese Attention Networks for Visual Object Tracking. [[paper](https://arxiv.org/pdf/2004.06711.pdf)]
