@@ -42,6 +42,8 @@
 
 * **DCFST:** Linyu Zheng, Ming Tang, Yingying Chen, JinqiaoWang, Hanqing Lu. Learning Feature Embeddings for Discriminant Model based Tracking. [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600749.pdf)][[supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600749-supp.pdf)][[code](https://github.com/CASIA-IVA-Lab/DCFST)]
 
+* **CLNet:** Xingping Dong1, Jianbing Shen, Ling Shao, and Fatih Porikli. CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers. [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650375.pdf)][[code](https://github.com/xingpingdong/CLNet-tracking)]
+
 
 ----------------------------
 ### CVPR2020
