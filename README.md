@@ -89,6 +89,8 @@
 
 * **DMB:** Fei Xie, Wankou Yang, Bo Liu, Kaihua Zhang, Wanli Xue, Wangmeng Zuo. Discriminative Segmentation Tracking Using Dual Memory Banks. [[paper](https://arxiv.org/abs/2009.09669)][[code](https://github.com/phiphiphi31/DMB)]
 
+* **AAA:** Heon Song, Daiki Suehiro, Seiichi Uchida. AAA: Adaptive Aggregation of Arbitrary Online Trackers with Theoretical Performance Guarantee. (**TPAMI**) [[paper](https://arxiv.org/abs/2009.09237)][[code](https://github.com/songheony/AAA-journal)]
+
 * **:** Bi Li, Chengquan Zhang, Zhibin Hong, Xu Tang, Jingtuo Liu, Junyu Han, Errui Ding, Wenyu Liu. Learning Global Structure Consistency for Robust Object Tracking. (**ACM MM 2020**) [[paper](https://arxiv.org/abs/2008.11769)]
 
 * **SiamKPN:** Qiang Li, Zekui Qin, Wenbo Zhang, Wen Zheng. Siamese Keypoint Prediction Network for Visual Object Tracking. [[paper](https://arxiv.org/abs/2006.04078)][[code](https://github.com/ZekuiQin/SiamKPN)]
