@@ -30,6 +30,8 @@
 
 * Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. Deep Learning for Visual Tracking: A Comprehensive Survey. [[paper](https://arxiv.org/pdf/1912.00535.pdf)]
 
+* Changhong Fu, Bowen Li, Fangqiang Ding, Fuling Lin, and Geng Lu. Correlation Filter for UAV-Based Aerial Tracking: A Review and Experimental Evaluation
+. [[paper](https://arxiv.org/pdf/2010.06255.pdf)]
 
 ----------------------------
 ### ECCV2020
