@@ -89,6 +89,8 @@
 
 * **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW2020**) [[paper](https://arxiv.org/abs/2008.03467)]
 
+* **:** Yuan Liu, Ruoteng Li, Robby T. Tan, Yu Cheng, Xiubao Sui. Object Tracking Using Spatio-Temporal Future Prediction. [[paper](https://arxiv.org/abs/2010.07605)]
+
 * **:** Jianing Qian, Junyu Nan, Siddharth Ancha, Brian Okorn, David Held. Robust Instance Tracking via Uncertainty Flow. [[paper](https://arxiv.org/abs/2010.04367)]
 
 * **DMB:** Fei Xie, Wankou Yang, Bo Liu, Kaihua Zhang, Wanli Xue, Wangmeng Zuo. Discriminative Segmentation Tracking Using Dual Memory Banks. [[paper](https://arxiv.org/abs/2009.09669)][[code](https://github.com/phiphiphi31/DMB)]
