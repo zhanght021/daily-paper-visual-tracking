@@ -89,6 +89,8 @@
 
 * **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW2020**) [[paper](https://arxiv.org/abs/2008.03467)]
 
+* **TRAT:** Hasan Saribas, Hakan Cevikalp, Okan Köpüklü, Bedirhan Uzun. RSINet: TRAT: Tracking by Attention Using Spatio-Temporal Features. [[paper](https://arxiv.org/abs/2011.09524)]
+
 * **RSINet:** Yang Fang, Geun-Sik Jo, Chang-Hee Lee. RSINet: Rotation-Scale Invariant Network for Online Visual Tracking. (**ICPR2020**) [[paper](https://arxiv.org/abs/2011.09153)]
 
 * **SPGA:** Lijian Lin, Haosheng Chen, Yanjie Liang, Yan Yan, Hanzi Wang. Robust Visual Tracking via Statistical Positive Sample Generation and Gradient Aware Learning. (**ACM MM Asia2019**) [[paper](https://arxiv.org/abs/2011.04260)]
@@ -244,52 +246,4 @@
   [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Learning_Spatial-Aware_Regressions_CVPR_2018_paper.pdf)]
 
 * **SiamRPN:** Bo Li, Wei Wu, Zheng Zhu, Junjie Yan.
-  "High Performance Visual Tracking with Siamese Region Proposal Network." CVPR (2018 **Spotlight**). 
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_High_Performance_Visual_CVPR_2018_paper.pdf)]
-
-* **TRACA:** Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi.
-  "Context-aware Deep Feature Compression for High-speed Visual Tracking." CVPR (2018). 
-  [[project](https://sites.google.com/site/jwchoivision/)]
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf)]
-
-* **RASNet:** Qiang Wang, Zhu Teng, Junliang Xing, Jin Gao, Weiming Hu, Stephen Maybank.
-  "Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking." CVPR 2018. 
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Learning_Attentions_Residual_CVPR_2018_paper.pdf)]
-
-* **SA-Siam:** Anfeng He, Chong Luo, Xinmei Tian, Wenjun Zeng.
-  "A Twofold Siamese Network for Real-Time Object Tracking." CVPR (2018). 
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_A_Twofold_Siamese_CVPR_2018_paper.pdf)]
-
-* **STRCF:** Feng Li, Cheng Tian, Wangmeng Zuo, Lei Zhang, Ming-Hsuan Yang.
-  "Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking." CVPR (2018). 
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Learning_Spatial-Temporal_Regularized_CVPR_2018_paper.pdf)]
-  [[github](https://github.com/lifeng9472/STRCF)]
-
-* **FlowTrack:** Zheng Zhu, Wei Wu, Wei Zou, Junjie Yan.
-  "End-to-end Flow Correlation Tracking with Spatial-temporal Attention." CVPR (2018). 
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_End-to-End_Flow_Correlation_CVPR_2018_paper.pdf)]
-
-* **DEDT:** Kourosh Meshgi, Shigeyuki Oba, Shin Ishii.
-  "Efficient Diverse Ensemble for Discriminative Co-Tracking." CVPR (2018). 
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Meshgi_Efficient_Diverse_Ensemble_CVPR_2018_paper.pdf)]
-
-* **SINT++:** Xiao Wang, Chenglong Li, Bin Luo, Jin Tang.
-  "SINT++: Robust Visual Tracking via Adversarial Positive Instance Generation." CVPR (2018).
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SINT_Robust_Visual_CVPR_2018_paper.pdf)]
-
-* **DRT:** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang.
-  "Correlation Tracking via Joint Discrimination and Reliability Learning." CVPR (2018). 
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Correlation_Tracking_via_CVPR_2018_paper.pdf)]
-
-* **MCCT:** Ning Wang, Wengang Zhou, Qi Tian, Richang Hong, Meng Wang, Houqiang Li.
-  "Multi-Cue Correlation Filters for Robust Visual Tracking." CVPR (2018). 
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Multi-Cue_Correlation_Filters_CVPR_2018_paper.pdf)]
-  [[github](https://github.com/594422814/MCCT)]
-
-* **MKCF:** Ming Tang, Bin Yu, Fan Zhang, Jinqiao Wang.
-  "High-speed Tracking with Multi-kernel Correlation Filters." CVPR (2018).
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_High-Speed_Tracking_With_CVPR_2018_paper.pdf)]
-  
-* **HP:** Xingping Dong, Jianbing Shen, Wenguan Wang, Yu, Liu, Ling Shao, and Fatih Porikli.
-  "Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning." CVPR (2018).
-  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf)]
+  "High Performance Visual Tracking with 
