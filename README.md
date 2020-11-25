@@ -21,6 +21,8 @@
 
 * **OTB2015:** Wu Y, Lim J, Yang M H. Object tracking benchmark[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37(9): 1834-1848.[[paper](https://www.researchgate.net/profile/Ming-Hsuan_Yang2/publication/273279481_Object_Tracking_Benchmark/links/5556e2d908ae6943a8734e3e/Object-Tracking-Benchmark.pdf)][[project](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)]  
 
+* **TREK-100:** Matteo Dunnhofer, Antonino Furnari, Giovanni Maria Farinella, Christian Micheloni. Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset.[[paper](https://arxiv.org/pdf/2011.12263.pdf)][project](https://machinelearning.uniud.it/datasets/trek100/)]  
+
 -----------------------
 ### Survey
 
