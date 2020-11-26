@@ -93,6 +93,10 @@
 
 * **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW2020**) [[paper](https://arxiv.org/abs/2008.03467)]
 
+* **CRACT:** Heng Fan, Haibin Ling. CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking. [[paper](https://arxiv.org/abs/2011.12483)]
+
+* **RCT:** Xizhe Xue, Ying Li, Qiang Shen. Robust Correlation Tracking via Multi-channel Fused Features and Reliable Response Map . [[paper](https://arxiv.org/abs/2011.12550)]
+
 * **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. Graph Attention Tracking. [[paper](https://arxiv.org/pdf/2011.11204.pdf)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
 
 * **TRAT:** Hasan Saribas, Hakan Cevikalp, Okan Köpüklü, Bedirhan Uzun. RSINet: TRAT: Tracking by Attention Using Spatio-Temporal Features. [[paper](https://arxiv.org/abs/2011.09524)]
