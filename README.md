@@ -37,6 +37,8 @@
 * Changhong Fu, Bowen Li, Fangqiang Ding, Fuling Lin, and Geng Lu. Correlation Filter for UAV-Based Aerial Tracking: A Review and Experimental Evaluation
 . [[paper](https://arxiv.org/pdf/2010.06255.pdf)]
 
+* Pengyu Zhang, Dong Wang, Huchuan Lu. Multi-modal Visual Tracking: Review and Experimental Comparison. [[paper](https://arxiv.org/abs/2012.04176)]
+
 ----------------------------
 ### ECCV2020
 
