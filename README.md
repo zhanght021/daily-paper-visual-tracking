@@ -95,6 +95,8 @@
 
 * **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW2020**) [[paper](https://arxiv.org/abs/2008.03467)]
 
+* **Alpha-Refine:** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. [[paper](https://arxiv.org/abs/2012.06815)][[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
+
 * **CRACT:** Heng Fan, Haibin Ling. CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking. [[paper](https://arxiv.org/abs/2011.12483)]
 
 * **RCT:** Xizhe Xue, Ying Li, Qiang Shen. Robust Correlation Tracking via Multi-channel Fused Features and Reliable Response Map . [[paper](https://arxiv.org/abs/2011.12550)]
