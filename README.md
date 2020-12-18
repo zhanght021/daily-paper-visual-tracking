@@ -99,6 +99,8 @@
 
 * **CRACT:** Heng Fan, Haibin Ling. CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking. [[paper](https://arxiv.org/abs/2011.12483)]
 
+* **DOTCL:** Vladislav Belyaev, Aleksandra Malysheva, Aleksei Shpilman. End-to-end Deep Object Tracking with Circular Loss Function for Rotated Bounding Box. [[paper](https://arxiv.org/abs/2012.09771)]
+
 * **RCT:** Xizhe Xue, Ying Li, Qiang Shen. Robust Correlation Tracking via Multi-channel Fused Features and Reliable Response Map . [[paper](https://arxiv.org/abs/2011.12550)]
 
 * **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. Graph Attention Tracking. [[paper](https://arxiv.org/pdf/2011.11204.pdf)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
