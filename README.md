@@ -97,6 +97,8 @@
 
 * **Alpha-Refine:** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. [[paper](https://arxiv.org/abs/2012.06815)][[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
 
+* **SiamAPN:** Changhong Fu, Ziang Cao, Yiming Li, Junjie Ye, Chen Feng. Siamese Anchor Proposal Network for High-Speed Aerial Tracking. [[paper](https://arxiv.org/abs/2012.10706)]
+
 * **CRACT:** Heng Fan, Haibin Ling. CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking. [[paper](https://arxiv.org/abs/2011.12483)]
 
 * **DOTCL:** Vladislav Belyaev, Aleksandra Malysheva, Aleksei Shpilman. End-to-end Deep Object Tracking with Circular Loss Function for Rotated Bounding Box. [[paper](https://arxiv.org/abs/2012.09771)]
