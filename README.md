@@ -97,6 +97,8 @@
 
 * **Alpha-Refine:** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. [[paper](https://arxiv.org/abs/2012.06815)][[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
 
+* **RE-SiamNets:** Deepak K. Gupta, Devanshu Arya, Efstratios Gavves. Rotation Equivariant Siamese Networks for Tracking. [[paper](https://arxiv.org/abs/2012.13078)]
+
 * **Coarse-to-fine-Tracker:** Ahmed Zgaren, Wassim Bouachir, Riadh Ksantini. Coarse-to-Fine Object Tracking Using Deep Features and Correlation Filters. [[paper](https://arxiv.org/abs/2012.12784)][[code](https://github.com/AhmedZgaren/Coarse-to-fine-Tracker)]
 
 * **SiamAPN:** Changhong Fu, Ziang Cao, Yiming Li, Junjie Ye, Chen Feng. Siamese Anchor Proposal Network for High-Speed Aerial Tracking. [[paper](https://arxiv.org/abs/2012.10706)]
