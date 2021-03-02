@@ -93,9 +93,12 @@
 ----------------------------
 ### 2020
 
-* **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW2020**) [[paper](https://arxiv.org/abs/2008.03467)]
-
 * **MFST:** Zhenxi Li, Guillaume-Alexandre Bilodeau, Wassim Bouachir. MFST: Multi-Features Siamese Tracker. [[paper](https://arxiv.org/abs/2103.00810)][[code](https://github.com/zhenxili96/MFST)]
+
+----------------------------
+### 2020
+
+* **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. RPT: Learning Point Set Representation for Siamese Visual Tracking. (**ECCVW2020**) [[paper](https://arxiv.org/abs/2008.03467)]
 
 * **Alpha-Refine:** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. [[paper](https://arxiv.org/abs/2012.06815)][[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
 
