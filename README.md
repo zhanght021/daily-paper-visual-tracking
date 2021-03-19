@@ -40,6 +40,12 @@
 * Pengyu Zhang, Dong Wang, Huchuan Lu. Multi-modal Visual Tracking: Review and Experimental Comparison. [[paper](https://arxiv.org/abs/2012.04176)]
 
 ----------------------------
+### 2021
+
+* **:** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. Real-Time Visual Object Tracking via Few-Shot Learning
+. [[paper](https://arxiv.org/pdf/2103.10130.pdf)]
+
+----------------------------
 ### ECCV2020
 
 * **Surroundings:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Know Your Surroundings: Exploiting Scene Information for Object Tracking. [[paper](https://arxiv.org/pdf/2003.11014.pdf)]
