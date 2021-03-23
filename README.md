@@ -42,7 +42,7 @@
 ----------------------------
 ### CVPR2021
 
-* **:star2: Recommendations :star2TransformerTrack:** Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li. Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking. [[paper](https://arxiv.org/abs/2103.11681)][[code](https://github.com/594422814/TransformerTrack)]
+* **:star2: TransformerTrack:** Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li. Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking. [[paper](https://arxiv.org/abs/2103.11681)][[code](https://github.com/594422814/TransformerTrack)]
 
 * **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. Graph Attention Tracking. [[paper](https://arxiv.org/pdf/2011.11204.pdf)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
 
