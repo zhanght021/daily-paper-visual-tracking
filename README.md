@@ -40,6 +40,13 @@
 * Pengyu Zhang, Dong Wang, Huchuan Lu. Multi-modal Visual Tracking: Review and Experimental Comparison. [[paper](https://arxiv.org/abs/2012.04176)]
 
 ----------------------------
+### CVPR2021
+
+* **:star2: Recommendations :star2TransformerTrack:** Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li. Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking. [[paper](https://arxiv.org/abs/2103.11681)][[code](https://github.com/594422814/TransformerTrack)]
+
+* **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. Graph Attention Tracking. [[paper](https://arxiv.org/pdf/2011.11204.pdf)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
+
+----------------------------
 ### 2021
 
 * **:** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. Real-Time Visual Object Tracking via Few-Shot Learning
@@ -119,8 +126,6 @@
 * **DOTCL:** Vladislav Belyaev, Aleksandra Malysheva, Aleksei Shpilman. End-to-end Deep Object Tracking with Circular Loss Function for Rotated Bounding Box. [[paper](https://arxiv.org/abs/2012.09771)]
 
 * **RCT:** Xizhe Xue, Ying Li, Qiang Shen. Robust Correlation Tracking via Multi-channel Fused Features and Reliable Response Map . [[paper](https://arxiv.org/abs/2011.12550)]
-
-* **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. Graph Attention Tracking. [[paper](https://arxiv.org/pdf/2011.11204.pdf)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
 
 * **TRAT:** Hasan Saribas, Hakan Cevikalp, Okan Köpüklü, Bedirhan Uzun. RSINet: TRAT: Tracking by Attention Using Spatio-Temporal Features. [[paper](https://arxiv.org/abs/2011.09524)]
 
