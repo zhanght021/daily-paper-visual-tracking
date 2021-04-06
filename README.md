@@ -58,6 +58,8 @@
 
 * **:** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang. Real-Time Visual Object Tracking via Few-Shot Learning. [[paper](https://arxiv.org/pdf/2103.10130.pdf)]
 
+* **:** Tsubasa Murate, Takashi Watanabe, Masaki Yamada. Learning Mobile CNN Feature Extraction Toward Fast Computation of Visual Object Tracking. [[paper](https://arxiv.org/pdf/2104.01381.pdf)]
+
 ----------------------------
 ### ECCV2020
 
